@@ -150,10 +150,8 @@
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part4-bruteforce/ex04.js">졸업선물</a></td>
         <td><a href="https://front-end.tistory.com/22">📝</a></td>
     </tr>
-    <!--
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part4-bruteforce/ex05.js">K번째 큰 수</a></td>
         <td><a href="https://front-end.tistory.com/23">📝</a></td>
     </tr>
-    -->
 </table>
