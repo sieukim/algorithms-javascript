@@ -161,11 +161,11 @@
         <td><a href="https://front-end.tistory.com/24">📝</a></td>
         <td rowspan="8"><a href="https://github.com/sieukim/algorithm/files/6917562/5.pdf">📚</a></td>
     </tr>
-    <!--
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part5-efficiency/ex02.js">공통 원소 구하기</a></td>
         <td><a href="https://front-end.tistory.com/25">📝</a></td>
     </tr>
+    <!--
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part5-efficiency/ex03.js">연속 부분 수열 1</a></td>
         <td><a href="https://front-end.tistory.com/26">📝</a></td>
