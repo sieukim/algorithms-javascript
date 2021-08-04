@@ -169,11 +169,11 @@
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part5-efficiency/ex03.js">연속 부분 수열 1</a></td>
         <td><a href="https://front-end.tistory.com/26">📝</a></td>
     </tr>
-    <!--
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part5-efficiency/ex04.js">연속 부분 수열 2</a></td>
         <td><a href="https://front-end.tistory.com/27">📝</a></td>
     </tr>
+    <!--
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part5-efficiency/ex05.js">최대 매출</a></td>
         <td><a href="https://front-end.tistory.com/28">📝</a></td>
