@@ -177,11 +177,11 @@
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part5-efficiency/ex05.js">최대 매출</a></td>
         <td><a href="https://front-end.tistory.com/28">📝</a></td>
     </tr>    
-    <!--
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part5-efficiency/ex06.js">학급 회장</a></td>
         <td><a href="https://front-end.tistory.com/29">📝</a></td>
     </tr>    
+    <!--
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part5-efficiency/ex07.js">아나그램</a></td>
         <td><a href="https://front-end.tistory.com/30">📝</a></td>
