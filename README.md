@@ -196,11 +196,11 @@
         <td><a href="https://front-end.tistory.com/32">📝</a></td>
         <td rowspan="7"><a href="https://github.com/sieukim/algorithm/files/6945733/6.pdf">📚</a></td>
     </tr>
-    <!--
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part6-stack&queue/ex02.js">괄호 문자 제거</a></td>
         <td><a href="https://front-end.tistory.com/33">📝</a></td>
     </tr>
+    <!--
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part6-stack&queue/ex03.js">크레인 인형뽑기</a></td>
         <td><a href="https://front-end.tistory.com/34">📝</a></td>
