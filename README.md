@@ -200,11 +200,11 @@
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part6-stack&queue/ex02.js">괄호 문자 제거</a></td>
         <td><a href="https://front-end.tistory.com/33">📝</a></td>
     </tr>
-    <!--
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part6-stack&queue/ex03.js">크레인 인형뽑기</a></td>
         <td><a href="https://front-end.tistory.com/34">📝</a></td>
     </tr>
+    <!--
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part6-stack&queue/ex04.js">후위식 연산</a></td>
         <td><a href="https://front-end.tistory.com/35">📝</a></td>
