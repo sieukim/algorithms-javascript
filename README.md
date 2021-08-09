@@ -208,11 +208,11 @@
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part6-stack&queue/ex04.js">후위식 연산</a></td>
         <td><a href="https://front-end.tistory.com/35">📝</a></td>
     </tr>
-    <!--
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part6-stack&queue/ex05.js">쇠막대기</a></td>
         <td><a href="https://front-end.tistory.com/36">📝</a></td>
     </tr>    
+    <!--
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part6-stack&queue/ex06.js">공주 구하기</a></td>
         <td><a href="https://front-end.tistory.com/37">📝</a></td>
