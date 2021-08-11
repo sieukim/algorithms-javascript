@@ -211,8 +211,7 @@
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part6-stack&queue/ex05.js">쇠막대기</a></td>
         <td><a href="https://front-end.tistory.com/36">📝</a></td>
-    </tr>    
-    <!--
+    </tr>
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part6-stack&queue/ex06.js">공주 구하기</a></td>
         <td><a href="https://front-end.tistory.com/37">📝</a></td>
@@ -220,6 +219,5 @@
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part6-stack&queue/ex07.js">교육 과정 설계</a></td>
         <td><a href="https://front-end.tistory.com/38">📝</a></td>
-    </tr>    
-    -->
+    </tr>
 </table>
