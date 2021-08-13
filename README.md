@@ -191,7 +191,7 @@
     </tr>
     <tr>
         <td rowspan="7">6</td>
-        <td rowspan="7"><a href="http://github.com/sieukim/algorithm/tree/master/part6-stack&queue">스택&큐</a></td>
+        <td rowspan="7"><a href="http://github.com/sieukim/algorithm/tree/master/part6-stack&queue">스택과 큐</a></td>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part6-stack&queue/ex01.js">올바른 괄호</a></td>    
         <td><a href="https://front-end.tistory.com/32">📝</a></td>
         <td rowspan="7"><a href="https://github.com/sieukim/algorithm/files/6945733/6.pdf">📚</a></td>
@@ -224,13 +224,11 @@
         <td rowspan="12">7</td>
         <td rowspan="12"><a href="http://github.com/sieukim/algorithm/tree/master/part7-sort&greedy">정렬과 그리디, 결정 알고리즘</a></td>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part7-sort&greedy/ex01.js">선택 정렬</a></td>    
-        <td><a href="https://front-end.tistory.com/39">📝</a></td>
+        <td><a href="https://front-end.tistory.com/39">❌</a></td>
         <td rowspan="12"><a href="https://github.com/sieukim/sieukim/files/6975583/7.pdf">📚</a></td>
     </tr>
-    <!--
     <tr>
-        <td><a href="https://github.com/sieukim/algorithm/blob/master/part6-stack&queue/ex02.js">괄호 문자 제거</a></td>
-        <td><a href="https://front-end.tistory.com/40">📝</a></td>
+        <td><a href="https://github.com/sieukim/algorithm/blob/master/part7-sort&greedy/ex02.js">버블 정렬</a></td>    
+        <td><a href="https://front-end.tistory.com/40">❌</a></td>
     </tr>
-    -->
 </table>
