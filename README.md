@@ -230,5 +230,9 @@
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part7-sort&greedy/ex02.js">버블 정렬</a></td>    
         <td><a href="https://front-end.tistory.com/40">❌</a></td>
+    </tr>    
+    <tr>
+        <td><a href="https://github.com/sieukim/algorithm/blob/master/part7-sort&greedy/ex03.js">버블 정렬 응용</a></td>    
+        <td><a href="https://front-end.tistory.com/41">❌</a></td>
     </tr>
 </table>
