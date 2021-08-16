@@ -238,5 +238,9 @@
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part7-sort&greedy/ex04.js">삽입 정렬</a></td>    
         <td><a href="https://front-end.tistory.com/42">📝</a></td>
+    </tr>    
+    <tr>
+        <td><a href="https://github.com/sieukim/algorithm/blob/master/part7-sort&greedy/ex05.js">삽입 정렬 응용</a></td>    
+        <td><a href="https://front-end.tistory.com/43">📝</a></td>
     </tr>
 </table>
