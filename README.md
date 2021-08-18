@@ -242,5 +242,17 @@
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part7-sort&greedy/ex05.js">삽입 정렬 응용</a></td>    
         <td><a href="https://front-end.tistory.com/43">📝</a></td>
+    </tr>    
+    <tr>
+        <td><a href="https://github.com/sieukim/algorithm/blob/master/part7-sort&greedy/ex06.js">장난꾸러기 현수</a></td>    
+        <td><a href="https://front-end.tistory.com/44">📝</a></td>
+    </tr>   
+    <tr>
+        <td><a href="https://github.com/sieukim/algorithm/blob/master/part7-sort&greedy/ex07.js">좌표 정렬</a></td>    
+        <td><a href="https://front-end.tistory.com/45">📝</a></td>
+    </tr>    
+    <tr>
+        <td><a href="https://github.com/sieukim/algorithm/blob/master/part7-sort&greedy/ex08.js">회의실 배정</a></td>    
+        <td><a href="https://front-end.tistory.com/46">📝</a></td>
     </tr>
 </table>
