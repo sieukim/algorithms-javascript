@@ -254,5 +254,9 @@
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part7-sort&greedy/ex08.js">회의실 배정</a></td>    
         <td><a href="https://front-end.tistory.com/46">📝</a></td>
+    </tr>    
+    <tr>
+        <td><a href="https://github.com/sieukim/algorithm/blob/master/part7-sort&greedy/ex09.js">결혼식</a></td>    
+        <td><a href="https://front-end.tistory.com/47">📝</a></td>
     </tr>
 </table>
