@@ -8,7 +8,7 @@
     </tr>
     <tr>
         <td rowspan="17">1</td>
-        <td rowspan="17"><a href="http://github.com/sieukim/algorithm/tree/master/part1-basic">기본 문제</a></td>
+        <td rowspan="17"><a href="https://github.com/sieukim/algorithm/tree/master/part1-basic">기본 문제</a></td>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part1-basic/ex01.js">세 수 중 최소값</a></td>
         <td>❌</td>
         <td rowspan="17"><a href="https://github.com/sieukim/algorithm/files/6911390/1.pdf">📚</a></td>
@@ -79,7 +79,7 @@
     </tr>
     <tr>
         <td rowspan="7">2</td>
-        <td rowspan="7"><a href="http://github.com/sieukim/algorithm/tree/master/part2-array">배열 탐색</a></td>
+        <td rowspan="7"><a href="https://github.com/sieukim/algorithm/tree/master/part2-array">배열 탐색</a></td>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part2-array/ex01.js">큰 수 출력하기</a></td>    
         <td><a href="https://front-end.tistory.com/6">📝</a></td>
         <td rowspan="7"><a href="https://github.com/sieukim/algorithm/files/6911395/2.1.2.pdf">📚</a></td>
@@ -110,7 +110,7 @@
     </tr>
     <tr>
         <td rowspan="5">3</td>
-        <td rowspan="5"><a href="http://github.com/sieukim/algorithm/tree/master/part3-string">문자열 탐색</a></td>
+        <td rowspan="5"><a href="https://github.com/sieukim/algorithm/tree/master/part3-string">문자열 탐색</a></td>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part3-string/ex01.js">회문 문자열</a></td>    
         <td><a href="https://front-end.tistory.com/14">📝</a></td>
         <td rowspan="5"><a href="https://github.com/sieukim/algorithm/files/6911397/3.pdf">📚</a></td>
@@ -133,7 +133,7 @@
     </tr>
     <tr>
         <td rowspan="5">4</td>
-        <td rowspan="5"><a href="http://github.com/sieukim/algorithm/tree/master/part4-bruteforce">완전 탐색</a></td>
+        <td rowspan="5"><a href="https://github.com/sieukim/algorithm/tree/master/part4-bruteforce">완전 탐색</a></td>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part4-bruteforce/ex01.js">자리수의 합</a></td>    
         <td><a href="https://front-end.tistory.com/19">📝</a></td>
         <td rowspan="5"><a href="https://github.com/sieukim/algorithm/files/6911404/4.pdf">📚</a></td>
@@ -156,7 +156,7 @@
     </tr>
     <tr>
         <td rowspan="8">5</td>
-        <td rowspan="8"><a href="http://github.com/sieukim/algorithm/tree/master/part5-efficiency">효율성</a></td>
+        <td rowspan="8"><a href="https://github.com/sieukim/algorithm/tree/master/part5-efficiency">효율성</a></td>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part5-efficiency/ex01.js">두 배열 합치기</a></td>    
         <td><a href="https://front-end.tistory.com/24">📝</a></td>
         <td rowspan="8"><a href="https://github.com/sieukim/algorithm/files/6917562/5.pdf">📚</a></td>
@@ -191,7 +191,7 @@
     </tr>
     <tr>
         <td rowspan="7">6</td>
-        <td rowspan="7"><a href="http://github.com/sieukim/algorithm/tree/master/part6-stack&queue">스택과 큐</a></td>
+        <td rowspan="7"><a href="https://github.com/sieukim/algorithm/tree/master/part6-stack&queue">스택과 큐</a></td>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part6-stack&queue/ex01.js">올바른 괄호</a></td>    
         <td><a href="https://front-end.tistory.com/32">📝</a></td>
         <td rowspan="7"><a href="https://github.com/sieukim/algorithm/files/6945733/6.pdf">📚</a></td>
@@ -222,7 +222,7 @@
     </tr>
     <tr>
         <td rowspan="12">7</td>
-        <td rowspan="12"><a href="http://github.com/sieukim/algorithm/tree/master/part7-sort&greedy">정렬과 그리디, 결정 알고리즘</a></td>
+        <td rowspan="12"><a href="https://github.com/sieukim/algorithm/tree/master/part7-sort&greedy">정렬과 그리디, 결정 알고리즘</a></td>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part7-sort&greedy/ex01.js">선택 정렬</a></td>    
         <td><a href="https://front-end.tistory.com/39">📝</a></td>
         <td rowspan="12"><a href="https://github.com/sieukim/sieukim/files/6975583/7.pdf">📚</a></td>
@@ -258,5 +258,9 @@
     <tr>
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part7-sort&greedy/ex09.js">결혼식</a></td>    
         <td><a href="https://front-end.tistory.com/47">📝</a></td>
+    </tr>    
+    <tr>
+        <td><a href="https://github.com/sieukim/algorithm/blob/master/part7-sort&greedy/ex10.js">이분 탐색</a></td>    
+        <td><a href="https://front-end.tistory.com/48">📝</a></td>
     </tr>
 </table>
