@@ -263,4 +263,8 @@
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part7-sort&greedy/ex10.js">이분 탐색</a></td>    
         <td><a href="https://front-end.tistory.com/48">📝</a></td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/sieukim/algorithm/blob/master/part7-sort&greedy/ex11.js">뮤직 비디오</a></td>    
+        <td><a href="https://front-end.tistory.com/49">📝</a></td>
+    </tr>
 </table>
