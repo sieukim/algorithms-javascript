@@ -278,4 +278,8 @@
         <td><a href="https://front-end.tistory.com/51">📝</a></td>
         <td rowspan="15"><a href="https://github.com/sieukim/sieukim/files/7032520/8.DFS.pdf">📚</a></td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/sieukim/algorithm/blob/master/part8-recursion&DFS/ex02.js">이진수 출력</a></td>    
+        <td><a href="https://front-end.tistory.com/52">📝</a></td>
+    </tr>
 </table>
