@@ -267,4 +267,8 @@
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part7-sort&greedy/ex11.js">뮤직 비디오</a></td>    
         <td><a href="https://front-end.tistory.com/49">📝</a></td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/sieukim/algorithm/blob/master/part7-sort&greedy/ex12.js">마구간 정하기</a></td>    
+        <td><a href="https://front-end.tistory.com/50">📝</a></td>
+    </tr>
 </table>
