@@ -271,4 +271,11 @@
         <td><a href="https://github.com/sieukim/algorithm/blob/master/part7-sort&greedy/ex12.js">마구간 정하기</a></td>    
         <td><a href="https://front-end.tistory.com/50">📝</a></td>
     </tr>
+    <tr>
+        <td rowspan="15">8</td>
+        <td rowspan="15"><a href="https://github.com/sieukim/algorithm/tree/master/part8-recursion&DFS">재귀함수와 DFS</a></td>
+        <td><a href="https://github.com/sieukim/algorithm/blob/master/part8-recursion&DFS/ex01.js">재귀 함수</a></td>    
+        <td><a href="https://front-end.tistory.com/51">📝</a></td>
+        <td rowspan="15"><a href="https://github.com/sieukim/sieukim/files/7032520/8.DFS.pdf">📚</a></td>
+    </tr>
 </table>
