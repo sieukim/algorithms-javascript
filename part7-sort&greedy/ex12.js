@@ -16,7 +16,7 @@ function solution(c, stables) {
     stables.sort((a, b) => a - b);
 
     let start = 1;
-    let end = stables[stables.length - 1];
+    let end = stables[stables.length - 1] - stables[0];
     let answer, mid;
 
     while (start <= end) {
