@@ -289,5 +289,9 @@
             <td><a href="https://github.com/sieukim/algorithm/blob/master/part8-recursion&dfs/ex03.js">이진트리 순회</a></td>    
             <td><a href="https://front-end.tistory.com/53">📝</a></td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/sieukim/algorithm/blob/master/part8-recursion&dfs/ex04.js">부분집합 구하기</a></td>    
+            <td><a href="https://front-end.tistory.com/54">📝</a></td>
+        </tr>
     </table>
 </div>
