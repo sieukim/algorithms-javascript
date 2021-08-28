@@ -293,5 +293,9 @@
             <td><a href="https://github.com/sieukim/algorithm/blob/master/part8-recursion&dfs/ex04.js">부분집합 구하기</a></td>    
             <td><a href="https://front-end.tistory.com/54">📝</a></td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/sieukim/algorithm/blob/master/part8-recursion&dfs/ex05.js">합이 같은 부분집합</a></td>    
+            <td><a href="https://front-end.tistory.com/55">📝</a></td>
+        </tr>
     </table>
 </div>
