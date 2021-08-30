@@ -1,32 +1,24 @@
 function solution(arr) {
     const n = arr.length;
-    const promising = new Array(n).fill(0);
     const totalSum = arr.reduce((a, b) => a + b);
 
     let answer = 'NO';
 
-    const dfs = i => {
+    const dfs = (i, sum) => {
         if (i === n) {
-            let sum = 0;
-
-            for (let i = 0; i < n; i++) {
-                if (promising[i]) sum += arr[i];
-            }
-
             if (sum * 2 === totalSum) {
                 answer = 'YES';
-                return;
             }
-
-        } else {
-            promising[i] = 0;
-            dfs(i + 1);
-            promising[i] = 1;
-            dfs(i + 1);
+            return;
         }
+        if (sum * 2 < totalSum) {
+            dfs(i + 1, sum + arr[i]);
+        }
+        dfs(i + 1, sum);
+
     };
 
-    dfs(0);
+    dfs(0, 0);
 
     return answer;
 }
