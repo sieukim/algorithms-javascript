@@ -298,8 +298,12 @@
             <td><a href="https://front-end.tistory.com/55">📝</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/sieukim/algorithm/blob/master/part8-recursion&dfs/ex06.js">최대점수 구하기</a></td>    
+            <td><a href="https://github.com/sieukim/algorithm/blob/master/part8-recursion&dfs/ex06.js">바둑이 승차</a></td>    
             <td><a href="https://front-end.tistory.com/56">📝</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/sieukim/algorithm/blob/master/part8-recursion&dfs/ex07.js">최대점수 구하기</a></td>    
+            <td><a href="https://front-end.tistory.com/57">📝</a></td>
         </tr>
     </table>
 </div>
