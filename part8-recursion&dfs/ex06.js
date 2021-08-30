@@ -1,30 +1,24 @@
 function solution(c, arr) {
     const n = arr.length;
-    const promising = new Array(n).fill(0);
 
     let max = 0;
 
-    const dfs = i => {
+    const dfs = (i, weight) => {
         if (i === n) {
-            let sum = 0;
-
-            for (let i = 0; i < n; i++) {
-                if (promising[i]) sum += arr[i];
+            if (weight > max) {
+                max = weight;
             }
-
-            if (c >= sum && sum > max) max = sum;
-
-        } else {
-            promising[i] = 0;
-            dfs(i + 1);
-            promising[i] = 1;
-            dfs(i + 1);
+            return;
         }
-    };
+        if (weight + arr[i] <= c) {
+            dfs(i + 1, weight + arr[i]);
+        }
+        dfs(i + 1, weight);
+    }
 
-    dfs(0);
+    dfs(0, 0);
 
-    return max
+    return max;
 }
 
 let arr = [81, 58, 42, 33, 61];
