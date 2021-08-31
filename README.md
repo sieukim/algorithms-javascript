@@ -305,5 +305,9 @@
             <td><a href="https://github.com/sieukim/algorithm/blob/master/part8-recursion&dfs/ex07.js">최대점수 구하기</a></td>    
             <td><a href="https://front-end.tistory.com/57">📝</a></td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/sieukim/algorithm/blob/master/part8-recursion&dfs/ex08.js">중복순열 구하기</a></td>    
+            <td><a href="https://front-end.tistory.com/58">📝</a></td>
+        </tr>
     </table>
 </div>
